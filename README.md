@@ -1,8 +1,10 @@
 ##  Araqulov Umrzoq | Software engineer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+JS+Developer;)
 - 📫 How to reach me **mraraqulovumrzoq@gmail.com**  
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umrzoq-araqulov-b218b5286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umrzoq-araqulov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umrzoq-araqulov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umrzoq-araqulov" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/umrzoq_araqulov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umrzoq_araqulov" height="30" width="40" /></a>
 </p>
 
