@@ -1,3 +1,14 @@
+##  Araqulov Umrzoq | Software engineer
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+JS+Developer;)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umrzoqaraqulov&show_icons=true&locale=en&layout=compact" alt="umrzoqaraqulov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umrzoqaraqulov&show_icons=true&locale=en" alt="umrzoqaraqulov" /></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/UmrzoqAraqulov/count.svg" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Umrzoq Araqulov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
