@@ -1,5 +1,5 @@
 ##  Araqulov Umrzoq | Software engineer
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+JS+Developer;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+JS+Developer;)
 - 📫 How to reach me **mraraqulovumrzoq@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
